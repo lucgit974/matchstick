@@ -8,8 +8,8 @@ basic match games  in c
 Type make on the root directory of the project
 # Playing the game
 To launch the game use: ``./matchstick size rm``    
-     -**size**: size of the map    
-     -**rm**: maximum number of matches that can be removed   
+* **``size``**: size of the map    
+* **``rm``**: maximum number of matches that can be removed   
 # Coding style
 The code follows a particular coding style enforced by my school. The most important aspects are:   
 * No more than 5 functions in a ``*.c`` file.       
