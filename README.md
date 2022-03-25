@@ -2,8 +2,8 @@
 basic match games  in c
 
 # Prerequisites
--cmake    
--gcc
+* cmake    
+* gcc
 
 Type make on the root directory of the project
 # Playing the game
